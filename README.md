@@ -1,4 +1,4 @@
-##Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records##
+# Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records #
 
 Compute representations based on a stack of denoising autoencoders from a matrix of raw data. The code return a matrix of deep representations. 
 
